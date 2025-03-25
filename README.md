@@ -13,3 +13,7 @@ Entry: https://vuldb.com/?id.275917
 
 4: CVE: CVE-2024-7916
 Entry: https://vuldb.com/?id.275041
+
+5: CVE: CVE-2024-12667
+Entry: https://vuldb.com/?id.288536
+
